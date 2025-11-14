@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LephiaNotes/LephiaNotes/output/snake.svg" alt="Snake animation" />
+<p align="left">Current Loadout:<br><br>DESKTOP<br>  COMPONENTS:<br>    CPU:       Ryzen 9 3900X<br>    MOBO:      MSI x570 Gaming Edge Wi-Fi<br>    GPU:       MSI RTX 2070 Super Gaming X Trio<br>    RAM:       Hyperx DDR4-3600 16GB (2 x 8 GB)<br>    SSD:       Western Digital SN770 1 TB<br>               Samsung 870 Evo 1 TB<br>    PSU:       CoolerMaster TUF 750w<br>Case: Hyte Y70 Touch Infinite<br><br>  PERIPHERALS:<br>    Keyboard:  Logitech G513 Mechanical<br>    Mouse:     Logitech G502 HERO<br>    Monitor:   Mi 34" Curved Monitor<br>           :   Koorui 34E6UC<br><br>LAPTOP<br>  ACER Nitro 5 AN515-45 (Ryzen 7 5800H & RTX 3060)<br>ACER Swift Go 14 (Intel Core Ultra 5 125H)<br><br>SMARTPHONE<br>  Samsung Z Fold 4</p>
 
 ###
